@@ -35,6 +35,18 @@
 
 #let rng = $op("rng")$
 
+#let rel = $op("rel")$
+
+#let func = $op("func")$
+
+#let const = $op("const")$
+
+#let var = $op("var")$
+
+#let tm = $op("tm")$
+
+#let fm = $op("fm")$
+
 #let detAlgo = "п.д.м.Т"
 
 #let algo = "п.в.м.Т"
