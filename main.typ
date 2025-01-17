@@ -17,3 +17,7 @@
   *Disclaymer*: доверять этому конспекту или нет выбирайте сами
 ]
 
+= Математическая логика
+
+#include "themes/1.typ"
+#include "themes/2.typ"

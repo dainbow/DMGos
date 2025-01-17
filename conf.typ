@@ -31,6 +31,10 @@
 
 #let supp = $op("supp")$
 
+#let dom = $op("dom")$
+
+#let rng = $op("rng")$
+
 #let detAlgo = "п.д.м.Т"
 
 #let algo = "п.в.м.Т"
