@@ -47,6 +47,8 @@
 
 #let fm = $op("fm")$
 
+#let st = $op("st")$
+
 #let detAlgo = "п.д.м.Т"
 
 #let algo = "п.в.м.Т"
