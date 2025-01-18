@@ -29,3 +29,8 @@
 #include "ml/8.typ"
 #include "ml/9.typ"
 #include "ml/10.typ"
+
+= Дискретные структуры
+
+#include "ds/1.typ"
+#include "ds/2.typ"
