@@ -36,3 +36,5 @@
 #include "ds/2.typ"
 #include "ds/3.typ"
 #include "ds/4.typ"
+#include "ds/5.typ"
+#include "ds/6.typ"
