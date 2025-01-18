@@ -38,3 +38,5 @@
 #include "ds/4.typ"
 #include "ds/5.typ"
 #include "ds/6.typ"
+#include "ds/7.typ"
+#include "ds/8.typ"
