@@ -32,7 +32,7 @@
 
   Рассмотрим $n!$ перестановок людей. Пусть $alpha_i$ означает, что $i$-й человек сидит на своём месте. Тогда
   #eq[
-    $N(alpha'_1, ..., alpha'_n) = n! - C_n^1 (n - 1)! - ... + (-1)^n C_n^n = \
+    $N(alpha'_1, ..., alpha'_n) = underbrace(n!, N(emptyset)) - C_n^1 underbrace((n - 1)!, N(alpha_i)) + C_n^2 underbrace((n - 2)!, N(alpha_i, alpha_j)) - ... + (-1)^n C_n^n underbrace(1, N(alpha_1, ..., alpha_n)) = \
       n! (1 - 1 / 1! + 1 / 2! - ... + (-1)^n 1 / n!) overset(->, n -> oo) n! / e$
   ]
 ]
